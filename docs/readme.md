@@ -10,3 +10,6 @@ Mobile application for organizing events.
 
 ## Remote Sync
 Remote changes are received asynchronously: Fetch first, review, then Pull.
+
+## Resilience
+Alternative path: revert to restore previous state.
