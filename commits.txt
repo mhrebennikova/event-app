@@ -1,0 +1,16 @@
+cefba77 Resolve merge conflict in documentationMerge branch 'feature-docs'
+ceea844 Add project structure and Git workflow documentation
+406a635 Add contributors list
+e99bff1 Add contributors list
+14958b9 Add revert annotation to documentation
+b448cf5 Revert "Add paragraph"
+1ab74d1 Add paragraph
+ecb2bf5 Resolve merge conflict
+ece1972 Merge branch 'feature-docs'
+1f157f4 Asynchronous fetch for remote changes
+bf028f4 Change greeting from 'Hello' to 'Welcome'
+ccc5776 Add setup documentation
+d05a0bb Add initial documentation
+c4b24c5 Change heading text
+232f20b Add blue CSS style to heading
+745e5f4 Add initial HTML file
